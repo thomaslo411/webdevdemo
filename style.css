@@ -1,0 +1,17 @@
+
+
+/* css intro */
+
+.title {
+    font-size: 100px;
+}
+
+.bob {
+    color: rgb(15, 255, 75);
+}
+
+.bob:hover {
+    color: rgb(255, 7, 7);
+    font-size: 50px;
+}
+
